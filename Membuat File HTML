@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Profile</title>
+</head>
+<body>
+	<p>Hello iin adalah dokumen HTML pertama saya</p>
+	
+	List Buah
+	<ol>
+		<li>Mangga</li>
+		<li>Apel</li>
+		<li>manggis</li>
+	</ol>
+
+	<ul>
+		<li>Mangga</li>
+		<li>Apel</li>
+		<li>manggis</li>
+	</ul>
+</body>
+</html>
